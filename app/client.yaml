@@ -29,6 +29,6 @@ spec:
     spec:
       containers:
       - name: ruletarusa-client
-        image: carlospmve/ruleta_rusa-client
+        image: eduardopm12/ruleta_rusa-client:bad
         ports:
         - containerPort: 5000
